@@ -30,7 +30,7 @@
 #define COMMON_DEFS_H_
 
 // Network buffer message length
-#define NET_BUF_LEN 	16
+#define NET_BUF_LEN 	60
 // UART terminator symbol
 #define UART_TERM_SYMB	'|'
 
